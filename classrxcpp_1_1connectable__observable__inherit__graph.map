@@ -1,0 +1,4 @@
+<map id="rxcpp::connectable_observable&lt; T, SourceOperator &gt;" name="rxcpp::connectable_observable&lt; T, SourceOperator &gt;">
+<area shape="rect" id="node2" href="$classrxcpp_1_1observable.html" title="a source of values. subscribe or use one of the operator methods that return a new observable..." alt="" coords="44,83,188,130"/>
+<area shape="rect" id="node4" href="$structrxcpp_1_1observable__base.html" title="rxcpp::observable_base\&lt; T \&gt;" alt="" coords="20,5,212,35"/>
+</map>

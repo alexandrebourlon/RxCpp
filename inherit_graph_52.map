@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$structrxcpp_1_1is__action.html" title="rxcpp::is_action\&lt; T, C \&gt;" alt="" coords="137,5,300,35"/>
+<area shape="rect" id="node5" href="$structrxcpp_1_1is__coordination.html" title="rxcpp::is_coordination\l\&lt; T, C \&gt;" alt="" coords="144,58,293,105"/>
+<area shape="rect" id="node7" href="$structrxcpp_1_1is__coordinator.html" title="rxcpp::is_coordinator\l\&lt; T, C \&gt;" alt="" coords="148,127,289,174"/>
+<area shape="rect" id="node9" href="$structrxcpp_1_1is__hashable.html" title="rxcpp::is_hashable\l\&lt; typename, C \&gt;" alt="" coords="153,197,284,243"/>
+<area shape="rect" id="node11" href="$structrxcpp_1_1util_1_1is__string.html" title="rxcpp::util::is_string\l\&lt; typename, C \&gt;" alt="" coords="151,266,287,313"/>
+<area shape="rect" id="node13" href="$structrxcpp_1_1util_1_1value__type__from.html" title="rxcpp::util::value\l_type_from\&lt; T, C \&gt;" alt="" coords="151,335,287,382"/>
+</map>

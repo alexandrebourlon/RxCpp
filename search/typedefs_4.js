@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['element_5ftype',['element_type',['../classcpplinq_1_1iter__cursor.html#a68c60af671ecf4eaf1ddfab26cb73a85',1,'cpplinq::iter_cursor::element_type()'],['../classcpplinq_1_1dynamic__cursor.html#ae97c87e493def918e4987590c47acc79',1,'cpplinq::dynamic_cursor::element_type()'],['../structcpplinq_1_1linq__groupby_1_1cursor.html#abcaff2b2ac631a4a81ecaff2af8d5d18',1,'cpplinq::linq_groupby::cursor::element_type()'],['../structcpplinq_1_1linq__select_1_1cursor.html#a0a737c1832f213aba9f4a8d7a5067191',1,'cpplinq::linq_select::cursor::element_type()'],['../classcpplinq_1_1linq__select__many_1_1cursor.html#a00b1f2571feeffab4575a834f0c4c5b0',1,'cpplinq::linq_select_many::cursor::element_type()'],['../structcpplinq_1_1linq__take__cursor.html#af692e7024a851afd709fa775bbae83a3',1,'cpplinq::linq_take_cursor::element_type()'],['../structcpplinq_1_1linq__where_1_1cursor.html#a4b28b5e9e722cec7f5365f3c3e0a29ef',1,'cpplinq::linq_where::cursor::element_type()']]]
+];
